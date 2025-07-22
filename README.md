@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rainsford Kofi Senam</h1>
-<h3 align="center">Am an IT technician with expertise in Data Analytics, Python, R, Web Dev, Cybersecurity, Networking and Hardware. Always looking for new challenges and opportunities to learn to impact lives.</h3>
+<h3 align="center">Am an IT technician with expertise in Data Analytics, Python, R, Web Dev, Cybersecurity, Networking and Hardware. Always looking for new challenges and opportunities to learn and impact lives.</h3>
 
 - 🌱 I’m currently learning **Python, R, Cryptography**
 
@@ -12,7 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qwuophy_play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qwuophy_play" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rainsford qwuophy senam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rainsford qwuophy senam" height="30" width="40" /></a>
 <a href="https://kaggle.com/rainsfordkofisenam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rainsfordkofisenam" height="30" width="40" /></a>
+<a href="https://fb.com/rainsford senam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rainsford senam" height="30" width="40" /></a>
+<a href="https://instagram.com/qwuophy_play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qwuophy_play" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rainsfordsenamkofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rainsfordsenamkofi" height="30" width="40" /></a>
 <a href="https://discord.gg/qwuophy_36042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qwuophy_36042" height="30" width="40" /></a>
 </p>
 
