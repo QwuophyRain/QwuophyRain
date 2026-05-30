@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rainsford Kofi Senam</h1>
-<h3 align="center">Am an IT technician with expertise in Data Analytics, Python, R, Web Dev, Cybersecurity, Networking and Hardware. Always looking for new challenges and opportunities to learn and impact lives.</h3>
+<h3 align="center">Am an IT technician with expertise in Data Analytics, Machine learning, Python, R, Web Dev, Cybersecurity, Networking and Hardware. Always looking for new challenges and opportunities to learn and impact lives.</h3>
 
-- 🌱 I’m currently learning **Python, R, Cryptography**
+- 🌱 I’m currently learning **Git, R, Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
