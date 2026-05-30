@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Data Analysis and Cybersecurity**
 
-- 📫 How to reach me **senamqwuophy@gmail.com**
+- 📫 How to reach me **senamqwuophy@gmail.com or senamqwuophy@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
